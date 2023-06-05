@@ -1,0 +1,14 @@
+{
+    "name": "henrique/api",
+    "autoload": {
+        "psr-4": {
+            "Henrique\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "henrique"
+        }
+    ],
+    "require": {}
+}
